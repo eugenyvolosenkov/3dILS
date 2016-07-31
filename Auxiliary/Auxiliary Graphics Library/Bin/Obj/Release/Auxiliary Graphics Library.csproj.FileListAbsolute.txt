@@ -1,0 +1,3 @@
+E:\3d_ILS\3d_ILS\bin\Release\Auxiliary.Graphics.dll
+E:\3d_ILS\3d_ILS\Auxiliary\Auxiliary Graphics Library\Bin\Obj\Release\Auxiliary Graphics Library.csprojResolveAssemblyReference.cache
+E:\3d_ILS\3d_ILS\Auxiliary\Auxiliary Graphics Library\Bin\Obj\Release\Auxiliary.Graphics.dll

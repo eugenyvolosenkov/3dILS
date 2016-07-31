@@ -1,0 +1,13 @@
+E:\3d_ILS\3d_ILS\bin\Debug\Auxiliary.Math.dll
+E:\3d_ILS\3d_ILS\bin\Debug\Auxiliary.Math.pdb
+E:\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary.Math.dll
+E:\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary.Math.pdb
+E:\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Interop.Accessibility.dll
+E:\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary Math Library.csproj.ResolveComReference.cache
+K:\git\3d_ILS\3d_ILS\bin\Debug\Auxiliary.Math.dll
+K:\git\3d_ILS\3d_ILS\bin\Debug\Auxiliary.Math.pdb
+K:\git\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary Math Library.csprojResolveAssemblyReference.cache
+K:\git\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Interop.Accessibility.dll
+K:\git\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary Math Library.csproj.ResolveComReference.cache
+K:\git\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary.Math.dll
+K:\git\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary.Math.pdb

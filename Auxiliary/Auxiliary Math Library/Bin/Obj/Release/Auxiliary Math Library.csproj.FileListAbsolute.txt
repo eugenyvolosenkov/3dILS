@@ -1,0 +1,2 @@
+E:\3d_ILS\3d_ILS\bin\Release\Auxiliary.Math.dll
+E:\3d_ILS\3d_ILS\Auxiliary\Auxiliary Math Library\Bin\Obj\Release\Auxiliary.Math.dll
